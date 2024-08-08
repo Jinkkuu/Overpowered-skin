@@ -1,2 +1,2 @@
 # Overpowered-skin
-圧倒された (Overpowered)
+圧倒された (Overpowered) skin for osu!
